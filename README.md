@@ -28,13 +28,13 @@ DSA-progress-analyzer/
 ### 📷 Screenshots
 
 ### 🔧 CLI Interface
-![CLI Screenshot](https://raw.githubusercontent.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-Tracker-with-AI-intergration/main/assets/cli_interface.png)
+![CLI Screenshot](assests/cli_interface.png)
 
 ### 📊 Excel Report
 ![Excel Screenshot](assets/excel_report.png)
 
 ### 🗃️ SQLite Database View
-![Database Screenshot](https://raw.githubusercontent.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-Tracker-with-AI-intergration/main/assets/database.png)
+![SQlite Database Screenshot](assests/database.png)
 
 ## 📦 Installation
 ```bash
