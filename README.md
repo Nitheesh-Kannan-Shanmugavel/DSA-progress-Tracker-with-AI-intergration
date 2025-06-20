@@ -25,6 +25,17 @@ DSA-progress-analyzer/
 ├── requirements.txt # Dependencies
 └── README.md # You're here!
 
+### 📷 Screenshots
+
+### 🔧 CLI Interface
+![CLI Screenshot](https://raw.githubusercontent.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-Tracker-with-AI-intergration/main/assets/cli_interface.png)
+
+### 📊 Excel Report
+![Excel Screenshot](https://raw.githubusercontent.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-Tracker-with-AI-intergration/main/assets/excel_report.png)
+
+### 🗃️ SQLite Database View
+![Database Screenshot](https://raw.githubusercontent.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-Tracker-with-AI-intergration/main/assets/database.png)
+
 ## 📦 Installation
 ```bash
 git clone [https://github.com/<your-username>/DSA-progress-analyzer.git](https://github.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-analyzer.git)
