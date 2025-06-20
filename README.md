@@ -1,4 +1,4 @@
-#  DSA Progress Analyzer
+#  DSA progress Tracker with AI intergration
 
 A powerful command-line tool to help you **track, analyze, and optimize** your Data Structures and Algorithms (DSA) problem-solving journey.
 
