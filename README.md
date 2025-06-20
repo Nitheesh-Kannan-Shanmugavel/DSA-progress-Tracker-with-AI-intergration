@@ -17,7 +17,6 @@ A powerful command-line tool to help you **track, analyze, and optimize** your D
 - 🧼 Built-in input validation and error handling
 
 ---
-
 ## 📂 Project Structure
 DSA-progress-analyzer/
 ├── DSA progress analys=zer.py # Main CLI logic
@@ -25,5 +24,12 @@ DSA-progress-analyzer/
 ├── .env # Environment variables (API keys etc.)
 ├── requirements.txt # Dependencies
 └── README.md # You're here!
+
+## 📦 Installation
+```bash
+git clone https://github.com/<your-username>/DSA-progress-analyzer.git
+cd DSA-progress-analyzer
+pip install -r requirements.txt
+
 
 
