@@ -27,7 +27,7 @@ DSA-progress-analyzer/
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/<your-username>/DSA-progress-analyzer.git
+git clone [https://github.com/<your-username>/DSA-progress-analyzer.git](https://github.com/Nitheesh-Kannan-Shanmugavel/DSA-progress-analyzer.git)
 cd DSA-progress-analyzer
 pip install -r requirements.txt
 
