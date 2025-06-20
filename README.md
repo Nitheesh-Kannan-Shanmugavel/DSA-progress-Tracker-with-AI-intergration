@@ -31,7 +31,7 @@ DSA-progress-analyzer/
 ![CLI Screenshot](assests/cli_interface.png)
 
 ### 📊 Excel Report
-![Excel Screenshot](assets/excel_report.png)
+![Excel Screenshot](assests/excel_report.png)
 
 ### 🗃️ SQLite Database View
 ![SQlite Database Screenshot](assests/database.png)
